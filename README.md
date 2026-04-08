@@ -13,7 +13,7 @@ Welcome to the **Product Filter React App**! This is a sophisticated, interactiv
 
 ## 🚀 Live Demo
 
-Experience the app in action: [https://iam269.github.io/Product-Filter-React/](https://iam269.github.io/Product-Filter-React/)
+Experience the app in action: [https://itsiamdev.github.io/Product-Filter-React/](https://itsiamdev.github.io/Product-Filter-React/)
 
 ## 🛠️ Technology Stack
 
